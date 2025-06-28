@@ -1,0 +1,5 @@
+Hello, Cryptotool!
+This is a sample file to demonstrate:
+- Encryption / Decryption
+- Hashing (SHA‑256)
+- Digital Signature & Verification
